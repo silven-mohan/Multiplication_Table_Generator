@@ -17,6 +17,5 @@ int main()
 		printf("\n |%d x %d = %d \t| %d x %d = %d |", n, i, m, n, i+10, f);
 	}
 	printf("\n________________________________");
-
 	return 0;
 }
